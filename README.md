@@ -1,4 +1,4 @@
-# MRM-Assignment-4-tutorial
+# MRM-Assignment-04
 Objectives 
 By the end of this assignment, you should:
 - understand how to reproduce analyses from a repository on OSF
